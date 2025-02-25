@@ -1,5 +1,5 @@
 package transporte;
 
-public class ConMotor {
-
+interface ConMotor {
+    void encenderMotor();
 }

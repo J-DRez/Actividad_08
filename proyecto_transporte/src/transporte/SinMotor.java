@@ -1,5 +1,5 @@
 package transporte;
 
-public class SinMotor {
-
+public interface SinMotor {
+    void usarFuerzaHumana();
 }
